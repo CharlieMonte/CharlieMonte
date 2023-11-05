@@ -1,6 +1,5 @@
 #Toll Road Calculator
 #Variables
-import string
 total = 0
 total_post_ev = 0
 toll = 0
